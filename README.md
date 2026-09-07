@@ -5,6 +5,13 @@
 
 **🌐 Live Demo:** https://bryceyuuu.github.io/awesome-ai-image-skills/
 
+<!-- README_PREVIEW_START -->
+<p align="center">
+  <img src="assets/readme/overview-01.jpg" width="49%" alt="Awesome AI Image Skills overview">
+  <img src="assets/readme/overview-02.jpg" width="49%" alt="Awesome AI Image Skills catalog">
+</p>
+<!-- README_PREVIEW_END -->
+
 **Keywords:** AI image skills · Codex skills · Claude Code skills · image editing · image generation · photo editing · zine poster · editorial design · Xiaohongshu / RedNote · risograph · agent skills · prompt engineering
 
 ## Why this repo
