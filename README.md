@@ -7,8 +7,8 @@
 
 <!-- README_PREVIEW_START -->
 <p align="center">
-  <img src="assets/readme/overview-01.jpg" width="49%" alt="Awesome AI Image Skills overview">
-  <img src="assets/readme/overview-02.jpg" width="49%" alt="Awesome AI Image Skills catalog">
+  <img src="assets/readme/overview-en-home.svg" width="49%" alt="Awesome AI Image Skills English homepage overview">
+  <img src="assets/readme/overview-en-catalog.svg" width="49%" alt="Awesome AI Image Skills English catalog overview">
 </p>
 <!-- README_PREVIEW_END -->
 
