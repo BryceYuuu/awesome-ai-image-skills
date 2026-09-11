@@ -49,22 +49,6 @@ GitHub 上视觉 Skill 很多，但真正的问题不是“找不到”，而是
 | 19 | [Photo Revival / 废片焕新](https://github.com/dacnay816y62-hub/photo-revival) | Photo → Zine / Editorial | FANTASY / dacnay816y62-hub | MIT |
 | 20 | [FANTASY 奇奇怪怪](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill) | Social / Cover / IP | FANTASY / dacnay816y62-hub | MIT |
 
-## Bryce Originals
-
-### Cinegraphic / 电影图形主义
-
-> **Not a filter. A visual system. / 不是滤镜，是一套视觉系统。**
-
-A reusable poster transformation system combining mid-century modern composition, editorial illustration, vintage cinema graphics, geometric character rendering, oversized typography, restricted color palettes and analog print texture.
-
-一套把普通图片重新设计成电影感、编辑感、现代主义复古海报的视觉系统。不是简单套滤镜，而是重新组织人物、字体、颜色、留白、几何结构与印刷质感。
-
-- **Local / Open Model:** Maximum Reference Fidelity / 最大化参考图忠实度
-- **Hosted / Guardrail-Friendly:** Original Reinterpretation / 原创重构版
-- **Bilingual prompts:** English + 中文
-
-**[Open Cinegraphic →](skills/cinegraphic/README.md)**
-
 ## Prompt Cheatsheet
 
 完整长版提示词见 **[PROMPTS.md](PROMPTS.md)**。网页版本可以直接点每张卡片里的 **「提示词」→「一键复制」**。
@@ -81,4 +65,4 @@ https://bryceyuuu.github.io/awesome-ai-image-skills/
 
 ## License & attribution
 
-本仓库自己的目录代码与页面结构使用 MIT License。第三方 Skill、文档、提示词、商标与案例图仍归各自作者所有，并受上游许可证和使用条款约束。Cinegraphic 等仓库内原创提示词/文档按本仓库 MIT License 发布；其中用于对比展示的第三方参考图片不包含在 MIT 授权范围内。
+本仓库自己的目录代码与页面结构使用 MIT License。第三方 Skill、文档、提示词、商标与案例图仍归各自作者所有，并受上游许可证和使用条款约束。
