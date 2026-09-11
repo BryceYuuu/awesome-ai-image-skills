@@ -9,11 +9,15 @@ Cinegraphic 是一套可复用的图像转海报提示词系统：把普通照�
 
 ## Reference / 参考效果
 
-![Cinegraphic reference grid](assets/reference-grid.svg)
+The intended reference set is the three before/after comparison images prepared for this style: romance/red-gold, temporal/blue-gray, and noir/red-black.
 
-The examples above are used to explain the visual transformation logic. Third-party source imagery shown for comparative study is **not** covered by this repository's MIT license; rights remain with the respective rightsholders.
+本风格的参考图为三组 Before / After 对照：红金情绪人物、蓝灰时空构图、黑红权力人物。它们用于说明同一套视觉系统如何适配不同题材，而不是固定套一种红色滤镜。
 
-上方示例用于说明视觉转译逻辑。对比图中出现的第三方原始海报素材**不属于**本仓库 MIT License 的授权范围，其权利仍归原权利人所有。
+> Binary reference image asset: `assets/reference-grid.png`
+
+The comparison examples are used only to explain the visual transformation logic. Third-party source imagery shown for comparative study is **not** covered by this repository's MIT license; rights remain with the respective rightsholders.
+
+对比图只用于说明视觉转译逻辑。示例中出现的第三方原始海报素材**不属于**本仓库 MIT License 的授权范围，其权利仍归原权利人所有。
 
 ## Core visual grammar / 核心视觉语言
 
